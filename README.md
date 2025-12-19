@@ -20,7 +20,8 @@ Proje klasöründe terminali açın ve gerekli paketleri indirin:
 
 ```bash
 go mod tidy
+```
 
-## Kurulum
+## Kullanım
 
 go run main.go https://site.com
