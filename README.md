@@ -1,4 +1,4 @@
-# Go Web Scraper 🕷️
+# Go Web Scraper 
 
 Bu araç, terminalden girilen bir web sitesini ziyaret eder ve verileri (sitenin ekran görüntüsü, HTML kodu, linkler) otomatik olarak kaydeder.
 
@@ -21,6 +21,6 @@ Proje klasöründe terminali açın ve gerekli paketleri indirin:
 ```bash
 go mod tidy
 
-## Kullanım
+## Kurulum
 
 go run main.go https://site.com
